@@ -42,17 +42,20 @@ If you sort the table in any way, you can export the data from the application w
 
 ![Table View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_view.PNG)
 
-You can view individual tables, such as sample information
+#### You can view individual tables, such as sample information
 
 ![Sample View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_sampleinfo.PNG)
 
-Or you can view sample information specific to a certain crop using the drop down.  
+#### Or you can view sample information specific to a certain crop using the drop down. 
+
 ![Sorted View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_sampleinfo_barley.PNG)
 
-view individual boxes
+#### view individual boxes
+
 ![Box View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_boxview.PNG)
 
 Or generate a metrics (summarized by crop type, where sample was collected, and how many have been sequenced).  If you choose to save the table view when metrics is selected in the drop down, it will write a new excel file with the metrics info, the date it was saved, and include a matplotlib chart that breaks down the plant numbers in GH versus field.
+
 ![Metrics View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_metrics.PNG)
 
 
