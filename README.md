@@ -44,15 +44,15 @@ If you sort the table in any way, you can export the data from the application w
 
 ![Table View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_view.PNG)
 
-#### You can view individual tables, such as sample information
+#### You can view individual tables, such as sample information, by selecting the table from the drop down menu in bottom left
 
 ![Sample View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_sampleinfo.PNG)
 
-#### Or you can view sample information specific to a certain crop using the drop down. 
+#### Or you can view sample information specific to a certain crop using the drop down in the top right. 
 
 ![Sorted View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_sampleinfo_barley.PNG)
 
-#### view individual boxes
+#### view individual boxes by inputting a box number in the text box and clicking "view box"
 
 ![Box View](https://raw.github.com/elderberry-smells/BioMOB/screenshots/table_boxview.PNG)
 
