@@ -18,6 +18,8 @@ Plant and animal germplasm is acquired and characterized to identify superior ch
 
 This application is used to manage the day-to-day data and logistics of the BioMOB project.  The application is the front end interface to an SQLite database, which houses the project info for samples being grown, extracted, and sequenced in GBS protocols.  The utility of the application is to make fillable sample sheets (written in excel xlsx files) for the lab and greenhouse staff to use and then import/write that information back into the database.  Some metrics related and bioinformatics related exports from the database are also done.
 
+Any changes to the database are logged into the "Tool Logsheet", which can be viewed in the live window on the main window.  These changes are written to a log sheet.txt file to make sure if there are errors, you can backtrack to see the changes.
+
 
 ### Main Window
 ![Main Window](https://raw.github.com/elderberry-smells/BioMOB/screenshots/main_window.PNG)
