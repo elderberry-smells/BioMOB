@@ -5,9 +5,14 @@
 
 Plant and animal germplasm is acquired and characterized to identify superior characteristics for use in science and breeding programs. This includes:
 
-    •Characterizing ecological and evolutionary processes relevant to agricultural crops to ensure efficient conservation of genetic diversity of cultivated plants of relevance for Canada and their wild relatives to prevent genetic erosion.
+    •Characterizing ecological and evolutionary processes relevant to agricultural crops to ensure efficient
+    conservation of genetic diversity of cultivated plants of relevance for Canada and their wild relatives 
+    to prevent genetic erosion.
 
-    •Acquiring and characterizing material for plant breeders for existing and new crops; screening germplasm relevant to Canada for disease resistance; characterizing plants with improved traits such as resistance to diseases and drought; development and refinement of techniques for successful conservation of animal germplasm from different livestock spps.
+    •Acquiring and characterizing material for plant breeders for existing and new crops; screening germplasm
+    relevant to Canada for disease resistance; characterizing plants with improved traits such as resistance to
+    diseases and drought; development and refinement of techniques for successful conservation of animal germplasm
+    from different livestock spps.
 
 ### How the application works
 
@@ -19,12 +24,15 @@ This application is used to manage the day-to-day data and logistics of the BioM
 
 This is the main window for the application.  There are certain stage gates that the samples move through in the project, and a button is assigned for essentially each one of those steps.  
 
-    •Load Shipment details - Take the accession data from the samples being planted, and any relevant data to the line and insert it into the database.  Return a sampling sheet for greenhosue crew.
+    •Load Shipment details - Take the accession data from the samples being planted, and any relevant data to the line
+    and insert it into the database.  Return a sampling sheet for greenhosue crew.
     •Load GH Samples - Load the box and well locations into the database, update any samples that failed to germinate
     •Load Quantification Data - update the samples to have a quantification (post DNA extraction) in the database
-    •Update sampling sheet - update the database to reflect the current sampling sheet (which is an excel working sheet being updated by greenhouse and lab personnel)
+    •Update sampling sheet - update the database to reflect the current sampling sheet (which is an excel working sheet
+    being updated by greenhouse and lab personnel)
     •Table view - opens a "database viewer" window, that can visualize the database tables and metrics
-    •analyze flourometer data - this does not link to the database, but is used to analyze the typical output of the flourimeter (a csv file with flourescent data)
+    •analyze flourometer data - this does not link to the database, but is used to analyze the typical output of the
+    flourimeter (a csv file with flourescent data)
 
 ### Table view window
 
